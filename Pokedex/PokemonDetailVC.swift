@@ -8,6 +8,13 @@
 
 import UIKit
 
-class PokemonDetailVC: UICollectionViewCell {
+class PokemonDetailVC: UIViewController {
+    
+    var pokemon: Pokemon!
+    
+    override func viewDidLoad() {
+        
+
+    }
     
 }
